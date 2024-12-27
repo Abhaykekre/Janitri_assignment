@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733081995212",
+    "project_id": "janitri-assignment-38965",
+    "storage_bucket": "janitri-assignment-38965.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733081995212:android:1a9b63538d51ba2304bf69",
+        "android_client_info": {
+          "package_name": "com.example.janitriassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjxq1C9vzuNAXPxXz0QSjEvlZmMLhffLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
